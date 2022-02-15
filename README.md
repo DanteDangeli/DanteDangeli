@@ -5,10 +5,10 @@
 -->
 Algunas cosas sobre mi:
 
-- 🔭 En este momento estoy trabajando en el proyecto integrador de DigitalHouse. 
-- 🌱 Estoy aprendiendo a desarrollar páginas webs.
+- 🔭 Recientemente termine mi cursada en DigitalHouse, pronto a arrancar en ORT para analista de sistemas. 
+- 🌱 Estoy aprendiendo a desarrollar.
 - 👯 Busco empezar a trabajar y colaborar en empresas para arrancar con mi carrera profesional.
-- 📫 Me podés encontrar en linkedin o mandándome un mail.
+- 📫 Me podés encontrar en linkedin o mandándome un mail a dandangeli@gmail.com.
 - 😄 Llamame Pola, Ruso, Colo o Dante, como te suene más ameno al verme por primera vez.
 <!--
 - 🤔 I’m looking for help with ...
